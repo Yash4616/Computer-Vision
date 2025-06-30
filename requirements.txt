@@ -1,0 +1,11 @@
+opencv-python>=4.8.0
+ultralytics>=8.0.0
+numpy>=1.24.0
+torch>=2.0.0
+torchvision>=0.15.0
+filterpy==1.4.5
+scikit-image==0.21.0
+imutils==0.5.4
+
+# Face detection specific requirements
+opencv-contrib-python>=4.8.0
